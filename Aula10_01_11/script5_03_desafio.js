@@ -10,8 +10,8 @@ b=a%2;
 
 saida.innerHTML=`Número = ${a}<br>`;
 if (b == 0){
-    saida.innerHTML+="O número escolhido é par";
+    saida.innerHTML+="O número escolhido é par.";
 }
 else{
-    saida.innerHTML+="O número escolhido é ímpar";
+    saida.innerHTML+="O número escolhido é ímpar.";
 }
